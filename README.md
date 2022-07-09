@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bpetes24
+- 👋 Hi, I’m Braden!
 - 👀 I’m a recent Cognitive Science graduate from the University of Georgia with dreams of becoming a UI/UX Designer.
   In addition to programming, I also write sci-fi/fantasy stories and music arrangements for fun.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and the basics of web development through The Odin Project.
