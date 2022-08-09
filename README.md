@@ -5,4 +5,4 @@
 - 💞️ I’m looking to collaborate on whatever sounds interesting to me. I'd like to make an indie game someday, whether it's a text adventure game or a 2D-scroller.
 - 📫 How to reach me ->
 - Email: braden.peterson@live.com
-- LinkedIn: https://www.linkedin.com/in/braden-peterson-07604481
+- LinkedIn: https://www.linkedin.com/in/braden-peterson-cs
